@@ -8,7 +8,8 @@
 </head>
 <body>
 
-    <h1>Hola mundo</h1>
+    <!-- Header -->
+    <? require_once __DIR__ . '/components/header.php' ?>
     
 </body>
 </html>
